@@ -15,3 +15,9 @@ git commit -m "commit"
 git push
 npm run deploy
 
+# GitHub CLI
+brew install gh
+gh auth login
+
+
+
